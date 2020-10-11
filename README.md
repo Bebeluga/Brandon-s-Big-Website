@@ -1,15 +1,3 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/Bebeluga/Brandon-s-Big-Website/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
 
 # What is a Trap
 A trap is a character in an anime that has feminine traits and characteristics however is actually a guy.
@@ -22,16 +10,6 @@ As you can see below the character depicted sports green hair as well as a skirt
 #### How To Spot A Trap
 There is really no way to spot a trap. The odds are against you.
 For more information refer to [here](https://aldovia.moe/how-to-detect-a-trap-in-anime/)
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
