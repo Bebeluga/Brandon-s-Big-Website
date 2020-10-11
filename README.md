@@ -14,10 +14,14 @@ Syntax highlighted code block
 # Header 1
 <head>
 <title> How To Spot A Trap </title>
-  </head?
+  </head>
 ## Header 2
 ### Header 3
-
+<body>
+<h1> Trap </h1>
+![link](https://img-9gag-fun.9cache.com/photo/aB1WjxD_460s.jpg)
+<h2> Not A Trap </h2>
+![link](https://vignette.wikia.nocookie.net/typemoon/images/6/61/Archer_of_red.png/revision/latest?cb=20130817133909)
 - Bulleted
 - List
 
