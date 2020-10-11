@@ -11,17 +11,16 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-<head>
-<title> How To Spot A Trap </title>
-  </head>
-## Header 2
-### Header 3
-<body>
-<h1> Trap </h1>
+# What is a Trap
+A trap is a character in an anime that has feminine traits and characteristics however is actually a guy.
+## Trap
+As you can see below the character depicted sports pink hair as well as a skirt but is actually a guy.
 ![link](https://img-9gag-fun.9cache.com/photo/aB1WjxD_460s.jpg)
-<h2> Not A Trap </h2>
+### Not A Trap
+As you can see below the character depicted sports green hair as well as a skirt but is actually a girl.
 ![link](https://vignette.wikia.nocookie.net/typemoon/images/6/61/Archer_of_red.png/revision/latest?cb=20130817133909)
+#### How To Spot A Trap
+There is really no way to spot a trap. The odds are against you.
 - Bulleted
 - List
 
