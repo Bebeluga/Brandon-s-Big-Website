@@ -21,6 +21,7 @@ As you can see below the character depicted sports green hair as well as a skirt
 ![link](https://vignette.wikia.nocookie.net/typemoon/images/6/61/Archer_of_red.png/revision/latest?cb=20130817133909)
 #### How To Spot A Trap
 There is really no way to spot a trap. The odds are against you.
+For more information refer to [here](https://aldovia.moe/how-to-detect-a-trap-in-anime/)
 - Bulleted
 - List
 
